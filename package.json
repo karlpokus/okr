@@ -1,6 +1,6 @@
 {
   "name": "okr",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "cli for managing OKRs",
   "bin": {
     "okr": "./bin/okr.js"

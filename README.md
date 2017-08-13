@@ -8,7 +8,7 @@ $ npm i okr -g
 
 # usage
 ```bash
-# list
+# list (filepath is relative to pwd)
 $ okr -f <file>
 ```
 
