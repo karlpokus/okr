@@ -1,0 +1,21 @@
+{
+  "timeFrame": "Q3 2017",
+  "employee": "pokus",
+  "okrs": [
+    {
+      "o": "fully staffed",
+      "krs": [
+        { "k": "hire new devs", "v": "pending" },
+        { "k": "make great ads", "v": "pending" }
+      ]
+    },
+    {
+      "o": "win awards",
+      "krs": [
+        { "k": "build great software", "v": "done" },
+        { "k": "create less bugs", "v": "pending" },
+        { "k": "profit", "v": "pending"}
+      ]
+    }
+  ]
+}

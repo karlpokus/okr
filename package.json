@@ -1,0 +1,29 @@
+{
+  "name": "okr",
+  "version": "0.1.0",
+  "description": "cli for managing OKRs",
+  "bin": {
+    "okr": "./bin/okr.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karlpokus/okr.git"
+  },
+  "keywords": [
+    "OKR"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/karlpokus/okr/issues"
+  },
+  "homepage": "https://github.com/karlpokus/okr#readme",
+  "dependencies": {
+    "chalk": "^2.1.0",
+    "easy-table": "^1.1.0",
+    "minimist": "^1.2.0"
+  }
+}
